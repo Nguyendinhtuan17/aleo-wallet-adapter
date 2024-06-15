@@ -12,7 +12,7 @@
     "doc": "typedoc --plugin typedoc-plugin-markdown --entryPoints index.ts"
   },
   "dependencies": {
-    "@demox-labs/aleo-wallet-adapter-base": "^0.0.20"
+    "@demox-labs/aleo-wallet-adapter-base": "^0.0.21"
   },
   "devDependencies": {
     "react": "^18.2.0",
