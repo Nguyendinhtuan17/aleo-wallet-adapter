@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@demox-labs/aleo-wallet-adapter-base": "^0.0.20",
-    "@demox-labs/aleo-wallet-adapter-react": "^0.0.19"
+    "@demox-labs/aleo-wallet-adapter-react": "^0.0.20"
   },
   "devDependencies": {
     "copyfiles": "^2.4.1",
